@@ -50,31 +50,31 @@ Text-based diagrams perfect for copying into Miro boards, documentation, or anyw
 
 ### Advanced Patterns
 
-1. [**Planning**](patterns/06-planning.md) - Strategic task decomposition
-2. [**Multi-Agent Collaboration**](patterns/07-multi-agent-collaboration.md) - Coordinating multiple agents
-3. [**Memory Management**](patterns/08-memory-management.md) - Storing and retrieving context
-4. [**Learning and Adaptation**](patterns/09-learning-and-adaptation.md) - Improving over time
-5. [**Model Context Protocol**](patterns/10-model-context-protocol.md) - Standardized agent communication
+6. [**Planning**](patterns/06-planning.md) - Strategic task decomposition
+7. [**Multi-Agent Collaboration**](patterns/07-multi-agent-collaboration.md) - Coordinating multiple agents
+8. [**Memory Management**](patterns/08-memory-management.md) - Storing and retrieving context
+9. [**Learning and Adaptation**](patterns/09-learning-and-adaptation.md) - Improving over time
+10. [**Model Context Protocol**](patterns/10-model-context-protocol.md) - Standardized agent communication
 
 ### System Patterns
 
-1. [**Goal Setting and Monitoring**](patterns/11-goal-setting-and-monitoring.md) - Tracking objectives
-2. [**Exception Handling and Recovery**](patterns/12-exception-handling-and-recovery.md) - Graceful error management
-3. [**Human-in-the-Loop**](patterns/13-human-in-the-loop.md) - Incorporating human feedback
-4. [**Knowledge Retrieval (RAG)**](patterns/14-knowledge-retrieval-rag.md) - Accessing external knowledge
-5. [**Inter-Agent Communication (A2A)**](patterns/15-inter-agent-communication-a2a.md) - Agent-to-agent messaging
+11. [**Goal Setting and Monitoring**](patterns/11-goal-setting-and-monitoring.md) - Tracking objectives
+12. [**Exception Handling and Recovery**](patterns/12-exception-handling-and-recovery.md) - Graceful error management
+13. [**Human-in-the-Loop**](patterns/13-human-in-the-loop.md) - Incorporating human feedback
+14. [**Knowledge Retrieval (RAG)**](patterns/14-knowledge-retrieval-rag.md) - Accessing external knowledge
+15. [**Inter-Agent Communication (A2A)**](patterns/15-inter-agent-communication-a2a.md) - Agent-to-agent messaging
 
 ### Optimization Patterns
 
-1. [**Resource-Aware Optimization**](patterns/16-resource-aware-optimization.md) - Efficient resource usage
-2. [**Reasoning Techniques**](patterns/17-reasoning-techniques.md) - Structured thinking approaches
-3. [**Guardrails/Safety Patterns**](patterns/18-guardrails-safety-patterns.md) - Ensuring safe operations
-4. [**Evaluation and Monitoring**](patterns/19-evaluation-and-monitoring.md) - Performance tracking
+16. [**Resource-Aware Optimization**](patterns/16-resource-aware-optimization.md) - Efficient resource usage
+17. [**Reasoning Techniques**](patterns/17-reasoning-techniques.md) - Structured thinking approaches
+18. [**Guardrails/Safety Patterns**](patterns/18-guardrails-safety-patterns.md) - Ensuring safe operations
+19. [**Evaluation and Monitoring**](patterns/19-evaluation-and-monitoring.md) - Performance tracking
 
 ### Strategic Patterns
 
-1. [**Prioritization**](patterns/20-prioritization.md) - Managing task importance
-2. [**Exploration and Discovery**](patterns/21-exploration-and-discovery.md) - Finding new solutions
+20. [**Prioritization**](patterns/20-prioritization.md) - Managing task importance
+21. [**Exploration and Discovery**](patterns/21-exploration-and-discovery.md) - Finding new solutions
 
 ## 🚀 Quick Start
 
