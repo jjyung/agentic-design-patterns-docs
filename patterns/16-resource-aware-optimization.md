@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/16-resource-aware-optimization.md)
+
 # 16. Resource-Aware Optimization Pattern
 
 ## When to Use

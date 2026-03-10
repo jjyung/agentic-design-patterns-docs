@@ -1,3 +1,5 @@
+**English** | [繁體中文](README.zh-TW.md)
+
 # Agentic Design Patterns Documentation
 
 A comprehensive visual and textual documentation of 21 essential agentic design patterns for building intelligent AI systems.

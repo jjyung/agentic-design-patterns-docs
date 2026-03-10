@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/01-prompt-chaining.md)
+
 # 01. Prompt Chaining Pattern
 
 ## When to Use

@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/21-exploration-and-discovery.md)
+
 # 21. Exploration and Discovery Pattern
 
 ## When to Use

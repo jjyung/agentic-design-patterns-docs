@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/README.md)
+
 # Agentic Design Patterns - Complete Reference
 
 This directory contains 21 integrated agentic design patterns, each combining detailed discussion with visual flow diagrams.

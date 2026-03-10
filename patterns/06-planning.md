@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/06-planning.md)
+
 # 06. Planning Pattern
 
 ## When to Use

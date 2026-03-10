@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/17-reasoning-techniques.md)
+
 # 17. Reasoning Techniques Pattern
 
 ## When to Use

@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/05-tool-use.md)
+
 # 05. Tool Use (Function Calling) Pattern
 
 ## When to Use

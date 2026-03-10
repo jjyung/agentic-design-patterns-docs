@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/03-parallelization.md)
+
 # 03. Parallelization Pattern
 
 ## When to Use

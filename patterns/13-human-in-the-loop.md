@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/13-human-in-the-loop.md)
+
 # 13. Human-in-the-Loop Pattern
 
 ## When to Use

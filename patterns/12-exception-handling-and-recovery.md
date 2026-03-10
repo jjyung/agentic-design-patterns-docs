@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/12-exception-handling-and-recovery.md)
+
 # 12. Exception Handling and Recovery Pattern
 
 ## When to Use

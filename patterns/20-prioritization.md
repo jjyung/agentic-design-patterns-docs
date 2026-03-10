@@ -1,4 +1,6 @@
-# 20. Prioritization Pattern# 20. Prioritization Pattern
+**English** | [繁體中文](zh-TW/20-prioritization.md)
+
+# 20. Prioritization Pattern
 
 ## When to Use
 

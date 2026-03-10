@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/10-model-context-protocol.md)
+
 # 10. Model Context Protocol Pattern
 
 ## When to Use

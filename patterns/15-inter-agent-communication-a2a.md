@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/15-inter-agent-communication-a2a.md)
+
 # 15. Inter-Agent Communication (A2A) Pattern
 
 ## When to Use

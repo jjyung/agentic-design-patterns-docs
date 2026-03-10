@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/14-knowledge-retrieval-rag.md)
+
 # 14. Knowledge Retrieval (RAG) Pattern
 
 ## When to Use

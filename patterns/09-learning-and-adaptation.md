@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/09-learning-and-adaptation.md)
+
 # 09. Learning and Adaptation Pattern
 
 ## When to Use

@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/18-guardrails-safety-patterns.md)
+
 # 18. Guardrails/Safety Patterns
 
 ## When to Use

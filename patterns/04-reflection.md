@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/04-reflection.md)
+
 # 04. Reflection Pattern
 
 ## When to Use

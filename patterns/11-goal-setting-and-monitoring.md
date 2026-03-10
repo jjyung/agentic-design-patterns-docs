@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/11-goal-setting-and-monitoring.md)
+
 # 11. Goal Setting and Monitoring Pattern
 
 ## When to Use

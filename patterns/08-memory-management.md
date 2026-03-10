@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/08-memory-management.md)
+
 # 08. Memory Management Pattern
 
 ## When to Use

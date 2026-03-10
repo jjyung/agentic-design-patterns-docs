@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/02-routing.md)
+
 # 02. Routing Pattern
 
 ## When to Use

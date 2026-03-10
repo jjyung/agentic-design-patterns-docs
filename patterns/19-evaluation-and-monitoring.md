@@ -1,3 +1,5 @@
+**English** | [繁體中文](zh-TW/19-evaluation-and-monitoring.md)
+
 # 19. Evaluation and Monitoring Pattern
 
 ## When to Use
